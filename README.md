@@ -1,5 +1,5 @@
 # tinymceaccessibility
-A simple plugin Shaina and I worked on in JavaScript for the WYSIWYG editor used in Plone as part of an open-source project for school.
+A simple plugin Shaina and I worked on in JavaScript for the WYSIWYG editor used in Plone as part of an open-source project for school (SE2).
 
 Add as a custom plugin via the TinyMCE options menu in the Plone control panel:
 "accesscheck|{location}"
